@@ -26,5 +26,5 @@ This project is a RESTful API that supports Create, Read, Update, and Delete ope
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/Akashk9565/Crud-Api.git
 
